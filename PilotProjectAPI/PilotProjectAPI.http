@@ -1,0 +1,6 @@
+@PilotProjectAPI_HostAddress = http://localhost:5274
+
+GET {{PilotProjectAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
